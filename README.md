@@ -28,7 +28,7 @@ Original design inspiration from Figma :- https://www.figma.com/design/K7RPZKjur
 | **iOS 16+** | Target platform |
 
 ✨ Screenshots
-<img width="750" height="1334" alt="image00001" src="https://github.com/user-attachments/assets/38dbc28b-5ef2-41a2-b2ea-e2a4768fe857" />
+<img width="90" height="150" alt="image00001" src="https://github.com/user-attachments/assets/38dbc28b-5ef2-41a2-b2ea-e2a4768fe857" />
 
 
 
