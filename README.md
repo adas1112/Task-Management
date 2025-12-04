@@ -27,8 +27,13 @@ Original design inspiration from Figma :- https://www.figma.com/design/K7RPZKjur
 | **Xcode**   | Development     |
 | **iOS 16+** | Target platform |
 
-✨ Screenshots
-<img width="200" height="400" alt="image00001" src="https://github.com/user-attachments/assets/38dbc28b-5ef2-41a2-b2ea-e2a4768fe857" />
+ # 📱 ScreenShots
+ 
+<img width="200" height="500" alt="image00001" src="https://github.com/user-attachments/assets/38dbc28b-5ef2-41a2-b2ea-e2a4768fe857" />
+<img width="200" height="500" alt="image00002" src="https://github.com/user-attachments/assets/737d1062-027c-4ccd-9a29-8e79432b38f1" />
+<img width="200" height="500" alt="image00003" src="https://github.com/user-attachments/assets/6735e8c4-3dbf-423b-a47f-6fb9530c6c4c" />
+<img width="200" height="500" alt="image00004" src="https://github.com/user-attachments/assets/9c76b94b-d1f0-465a-9b76-07b5b49ebbcd" />
+<img width="200" height="500" alt="image00005" src="https://github.com/user-attachments/assets/983e4650-f099-4bdd-bf08-78f9046eda90" />
 
 
 
