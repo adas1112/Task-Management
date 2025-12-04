@@ -21,10 +21,14 @@ This is purely a SwiftUI layout project.
 Original design inspiration from Figma :- https://www.figma.com/design/K7RPZKjurmFwESahu0mb37/Task-management---to-do-list-app--Community-?node-id=1-87&p=f&t=lJMWvj0pu5vZOBzx-0
 
 🛠️ Tech Stack
-Technology	Purpose
-SwiftUI	User Interface
-Xcode	Development
-iOS 16+	Target platform
+| Technology  | Purpose         |
+| ----------- | --------------- |
+| **SwiftUI** | User Interface  |
+| **Xcode**   | Development     |
+| **iOS 16+** | Target platform |
+
+✨ Screenshots
+<img width="750" height="1334" alt="image00001" src="https://github.com/user-attachments/assets/38dbc28b-5ef2-41a2-b2ea-e2a4768fe857" />
 
 
 
